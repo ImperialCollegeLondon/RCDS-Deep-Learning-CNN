@@ -1,4 +1,4 @@
-# [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/), Introduction to Deep Learning and convolutional neural networks in Python
+# [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/), Deep Learning with Python
 
 In this workshop, we will go through the basic concepts of Deep Learning, taking a hands-on approach. You will thus learn how to develop and apply convolutional neural networks (CNN) in Python using [PyTorch](https://pytorch.org/). For this purpose, we will delve into the basics of PyTorch and concepts of computer vision using [torchvision](https://pytorch.org/vision/stable/index.html) (lecture 1). We will train our own CNN from scratch and use transfer learning to build on existing neural netoworks (lecture 2). Finally, you will learn how to optimise and evaluate your network architecture and its perfromance (lecture 3). 
 
@@ -34,6 +34,8 @@ For a general introduction to machine learning beyond Deep Learning, please see
 
 - please see the RCDS course [Machine Learning with Python](https://github.com/ImperialCollegeLondon/RCDS-machine-learning-with-python).
 
+For more information on PyTorch, see also [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/).
+
 Due to the time constraints, the course delves into CNNs only. The course does hence not cover Physics-informed neural networks (PINN), Transformers, Graph neural networks (GNN), Generative Adversarial Networks (GAN), normalising flows, or autoencoders. For **post-course reading** on any of these topics, we recommend
 
 - The book [Dive into Deep Learning](https://d2l.ai/index.html) by Aston Zhang et al. (includes coding tutorials)
@@ -44,4 +46,6 @@ Due to the time constraints, the course delves into CNNs only. The course does h
 
 For a visual representation of what happens in each layer of a CNN, have a look at [tensorspace.org](tensorspace.org). You can create such a visiual representation yourself (see notebook 2.1).
 
-For animations of what happens inside a neural network, have a look at [https://animatedai.github.io](https://animatedai.github.io)
+For animations of what happens inside a neural network, have a look at [https://animatedai.github.io](https://animatedai.github.io).
+
+In this course, we have build up the code, presenting each step. However, you can get Python packages, such as [Supergradient](https://pypi.org/project/super-gradients/2.5.0/), that allow you to train your model with a single line of code.
