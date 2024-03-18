@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage[most]{tcolorbox}
+
+\definecolor{pastelblue}{RGB}{160,210,255}
+\definecolor{pastelpurple}{RGB}{200,180,255}
+
+\begin{document}
+
+\begin{tcolorbox}[colback=pastelblue, colframe=pastelblue]
+\begin{equation}
+    a = \sum_{i=1}^{n} w_i x_i + b
+\end{equation}
+\end{tcolorbox}
+
+\begin{tcolorbox}[colback=pastelpurple, colframe=pastelpurple]
+\begin{equation}
+    y = f(a)
+\end{equation}
+\end{tcolorbox}
+
+\begin{equation}
+\mathbf{W}^{(l)} \leftarrow \mathbf{W}^{(l)} - \alpha \frac{\partial L}{\partial \mathbf{W}^{(l)}}
+\end{equation}
+
+\begin{equation}
+\mathbf{b}^{(l)} \leftarrow \mathbf{b}^{(l)} - \alpha \frac{\partial L}{\partial \mathbf{b}^{(l)}}
+\end{equation}
+
+
+\end{document}
