@@ -24,11 +24,11 @@ data_transform = torchvision.transforms.Compose([
 dataset = torchvision.datasets.ImageFolder(root='./hymenoptera_data/val', transform=data_transform)
 
 # Select random indices for 5x7 grid
-num_rows, num_cols = 4, 11
+num_rows, num_cols = 4, 12
 indices = random.sample(range(len(dataset)), num_rows * num_cols)
 
 # Plot the images
-fig, axes = plt.subplots(num_rows, num_cols, figsize=(35, 15))
+fig, axes = plt.subplots(num_rows, num_cols, figsize=(40, 15))
 
 for i, index in enumerate(indices):
     row = i // num_cols
