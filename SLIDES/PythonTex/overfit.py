@@ -6,6 +6,8 @@ np.random.seed(0)
 X = np.linspace(0, 5, 25)
 y = 2 * np.sin(X) + np.random.normal(0, 0.5, X.shape)
 
+y[17] -=2
+
 # Define a simple polynomial regression model
 def polynomial_regression(X, y, degree):
     coeffs = np.polyfit(X, y, degree)
@@ -33,7 +35,7 @@ linear_model = polynomial_regression(X, y, degree=1)
 plot_model(X, y, linear_model, 'Underfitting (Linear)', save_path='underfitting.png')
 
 # Overfitting: High-degree polynomial model (degree 15)
-high_degree_model = polynomial_regression(X, y, degree=15)
+high_degree_model = polynomial_regression(X, y, degree=20)
 plot_model(X, y, high_degree_model, 'Overfitting (High-degree Polynomial)', save_path='overfitting.png')
 
 # Overfitting: High-degree polynomial model (degree 15)
