@@ -65,30 +65,39 @@ If you are a student or member of staff at Imperial College London, you can acce
 - Notebook 0.1: <a href="https://colab.research.google.com/drive/1Cu213KYxYPqALhrZ5reDtWtr4bbwMDoP?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Notebook 1.1: <a href="https://colab.research.google.com/drive/1GgEcCmukBWUbGatYA1kyU_bo4UmxZVLI?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Notebook 1.2: <a href="https://colab.research.google.com/drive/1JvNk2XSm5NY0F9kbtBQxA04n90hJA5mN?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Notebook 1.3: <a href="https://colab.research.google.com/drive/12gRIGNnjbCA-1Hkt97fjB7NU9CnvYt8V?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Notebook 2.1: <a href="https://colab.research.google.com/drive/1ddF3Rkcag9ywO2XovA7ONNHDKRgid5bv?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Notebook 2.2: <a href="https://colab.research.google.com/drive/1jd3HeWWEb78zTFBIQYPRjTECjkfJC1yV?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Notebook 2.3: <a href="https://colab.research.google.com/drive/1t1a_yLCAcqtIl9uIqkE01A8VwWKgbjSc?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Notebook 3.1: <a href="https://colab.research.google.com/drive/1TzlwecBPvyCVqTBf4z9fpgo5afJIi0_4?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Notebook 3.2: <a href="https://colab.research.google.com/drive/1sdjecxIHi-7x-KxIydD0TR9gqOdmGmDe?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - Quiz notebook: <a href="https://colab.research.google.com/drive/1qXrvMNi6Z9rkZ6RHllbOwmfQ_4knzGFX?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
