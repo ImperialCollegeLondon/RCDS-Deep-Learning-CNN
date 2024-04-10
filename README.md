@@ -59,3 +59,9 @@ If you are a student or member of staff at Imperial College London, you can acce
 - [Lecture 2, Convolutional Neural Networks](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6397640e-1cb7-4e77-8b38-b14d00ab3766)
 
 - [Lecture 3, Training, testing and optimisation](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=180f480f-baf9-45db-b321-b14d00c20c6c)
+
+## Google Colab
+
+<a href="https://colab.research.google.com/drive/19eN9zK1iKcRJoW_xtHwe4IhoPvWuB2af?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
