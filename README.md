@@ -60,8 +60,10 @@ If you are a student or member of staff at Imperial College London, you can acce
 
 - [Lecture 3, Training, testing and optimisation](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=180f480f-baf9-45db-b321-b14d00c20c6c)
 
+<!--
 ## Google Colab
 
-<a href="https://colab.research.google.com/drive/19eN9zK1iKcRJoW_xtHwe4IhoPvWuB2af?usp=sharing">
+- Notebook 0.1: <a href="https://colab.research.google.com/drive/19eN9zK1iKcRJoW_xtHwe4IhoPvWuB2af?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+-->
