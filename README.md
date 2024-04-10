@@ -62,6 +62,8 @@ If you are a student or member of staff at Imperial College London, you can acce
 
 ## Google Colab
 
+You can access the notebooks directly on Google Colab via the links below to create your own copy of the notebooks. Alternatively, you can find the code in the corresponding folders as listed above. Note that the notebooks are tailored for Google Colab, i.e., if you decide to run the code on your own computer, you might need to adapt a few lines of code (e.g., to load the files in the quiz).
+
 - Notebook 0.1: <a href="https://colab.research.google.com/drive/1Cu213KYxYPqALhrZ5reDtWtr4bbwMDoP?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -101,19 +103,3 @@ If you are a student or member of staff at Imperial College London, you can acce
 - Quiz notebook: <a href="https://colab.research.google.com/drive/1qXrvMNi6Z9rkZ6RHllbOwmfQ_4knzGFX?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--->
