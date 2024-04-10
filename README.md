@@ -4,11 +4,11 @@ In this course, we will go through the basic concepts of Deep Learning, taking a
 
 Previous knowledge of PyTorch is not required for the course nor are you expected to know anything about Deep Learning beforemand, as we will cover the basics. However, participants must be familiar with the basic concepts of Python programming. Furthermore, since we will build on the terminology introduced in the RCDS course [Introduction to Machine Learning](https://github.com/ImperialCollegeLondon/RCDS-intro-to-machine-learning), it is a prerequisite for the present workshop.
 
-The slides from the lectures are provided in the folder SLIDES.
+The slides from the lectures are provided in the folder SLIDES. The lecture recordings can be found on Panopto using the links below.
 
-The folder NOTEBOOKS contains Jupyter-notebooks with the examples and exercises used in the course.
+The folder NOTEBOOKS contains Jupyter-notebooks with the examples and exercises used in the course. You can also access the notebooks directly via Google Colab using the links below.
 
-In the folder QUIZ, you will find a notebook that provides an interactive multiple-choice quiz on the covered material. 
+In the folder QUIZ, you will find a notebook that provides an interactive multiple-choice quiz on the covered material. The quiz can also be found directly on Google Colab using a link below.
 
 ## Lectures
 
@@ -22,7 +22,7 @@ If you are a student or member of staff at Imperial College London, you can acce
 
 ## Google Colab
 
-You can access the notebooks directly on Google Colab via the links below to create your own copy of the notebooks. Alternatively, you can find the code in the corresponding folders as listed above. Note that the notebooks are tailored for Google Colab, i.e., if you decide to run the code on your own computer, you might need to adapt a few lines of code (e.g., to load the files in the quiz).
+You can access the notebooks that accompany the lectures directly on Google Colab via the links below to create your own copy of the notebooks. Alternatively, you can find the code in the corresponding folders as listed above. Note that the notebooks are tailored for Google Colab, i.e., if you decide to run the code on your own computer, you might need to adapt a few lines of code (e.g., to load the files in the quiz).
 
 - Notebook 0.1: <a href="https://colab.research.google.com/drive/1Cu213KYxYPqALhrZ5reDtWtr4bbwMDoP?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
