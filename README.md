@@ -10,46 +10,6 @@ The folder NOTEBOOKS contains Jupyter-notebooks with the examples and exercises 
 
 In the folder QUIZ, you will find a notebook that provides an interactive multiple-choice quiz on the covered material. 
 
-## Learning outcomes
-
-After attending this workshop, you will be better able to:
-
-- understand the basic terminology and concepts of deep learning methods 
-
-- understand and explain the applications and limitations of CNN 
-
-- select, apply and develop deep learning techniques in PyTorch.  
-
-- evaluate the performance of CNN 
-
-## Getting Started
-
-If you want to run the notebooks on your own laptop, you will need to [install PyTorch](https://pytorch.org/). In the course, we will run the code on Google Colab, i.e., no local installations will be required. <span style="background-color:lightblue;">See the notebook "0.1 Installation" in NOTEBOOKS</span>.
-
-## Suggested external resources
-
-For a general introduction to machine learning beyond Deep Learning, please see 
-
-- the RCDS course [Introduction to Machine Learning](https://github.com/ImperialCollegeLondon/RCDS-intro-to-machine-learning).
-
-- the RCDS course [Machine Learning with Python](https://github.com/ImperialCollegeLondon/RCDS-machine-learning-with-python).
-
-For more information on PyTorch, see also [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/).
-
-Due to the time constraints, the course delves into CNNs only. The course does hence not cover Physics-informed neural networks (PINN), Transformers, Graph neural networks (GNN), Generative Adversarial Networks (GAN), normalising flows, or autoencoders. For **post-course reading** on any of these topics, we recommend
-
-- The book [Dive into Deep Learning](https://d2l.ai/index.html) by Aston Zhang et al. (includes coding tutorials)
-
-- The book [Deep Learning, Foundations and Concepts](https://link.springer.com/book/10.1007/978-3-031-45468-4) by Bishop and Bishop
-
-- The book Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville and Francis Bach
-
-For a visual representation of what happens in each layer of a CNN, have a look at [tensorspace.org](tensorspace.org). You can create such a visual representation yourself (see notebook 2.1).
-
-For animations of what happens inside a neural network, have a look at [https://animatedai.github.io](https://animatedai.github.io).
-
-In this course, you will find code that takes you through each step. However, you can get Python packages, such as [Supergradient](https://pypi.org/project/super-gradients/2.5.0/), that allow you to train your model with a single line of code.
-
 ## Lectures
 
 If you are a student or member of staff at Imperial College London, you can access the lectures recordings on Panopto
@@ -103,3 +63,43 @@ You can access the notebooks directly on Google Colab via the links below to cre
 - Quiz notebook: <a href="https://colab.research.google.com/drive/1qXrvMNi6Z9rkZ6RHllbOwmfQ_4knzGFX?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+## Learning outcomes
+
+After attending this workshop, you will be better able to:
+
+- understand the basic terminology and concepts of deep learning methods 
+
+- understand and explain the applications and limitations of CNN 
+
+- select, apply and develop deep learning techniques in PyTorch.  
+
+- evaluate the performance of CNN 
+
+## Getting Started
+
+If you want to run the notebooks on your own laptop, you will need to [install PyTorch](https://pytorch.org/). In the course, we will run the code on Google Colab, i.e., no local installations will be required. <span style="background-color:lightblue;">See the notebook "0.1 Installation"</span>.
+
+## Suggested external resources
+
+For a general introduction to machine learning beyond Deep Learning, please see 
+
+- the RCDS course [Introduction to Machine Learning](https://github.com/ImperialCollegeLondon/RCDS-intro-to-machine-learning).
+
+- the RCDS course [Machine Learning with Python](https://github.com/ImperialCollegeLondon/RCDS-machine-learning-with-python).
+
+For more information on PyTorch, see also [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/).
+
+Due to the time constraints, the course delves into CNNs only. The course does hence not cover Physics-informed neural networks (PINN), Transformers, Graph neural networks (GNN), Generative Adversarial Networks (GAN), normalising flows, or autoencoders. For **post-course reading** on any of these topics, we recommend
+
+- The book [Dive into Deep Learning](https://d2l.ai/index.html) by Aston Zhang et al. (includes coding tutorials)
+
+- The book [Deep Learning, Foundations and Concepts](https://link.springer.com/book/10.1007/978-3-031-45468-4) by Bishop and Bishop
+
+- The book Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville and Francis Bach
+
+For a visual representation of what happens in each layer of a CNN, have a look at [tensorspace.org](tensorspace.org). You can create such a visual representation yourself (see notebook 2.1).
+
+For animations of what happens inside a neural network, have a look at [https://animatedai.github.io](https://animatedai.github.io).
+
+In this course, you will find code that takes you through each step. However, you can get Python packages, such as [Supergradient](https://pypi.org/project/super-gradients/2.5.0/), that allow you to train your model with a single line of code.
