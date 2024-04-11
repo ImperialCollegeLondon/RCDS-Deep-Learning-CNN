@@ -104,4 +104,4 @@ For animations of what happens inside a neural network, have a look at [https://
 
 In this course, you will find code that takes you through each step. However, you can get Python packages, such as [Supergradient](https://pypi.org/project/super-gradients/2.5.0/), that allow you to train your model with a single line of code.
 
-Useful introcutions to topics in Deep Learning can also be found on [https://distill.pub/](https://distill.pub/).
+Insightful introductions to topics in Deep Learning can also be found on [https://distill.pub/](https://distill.pub/).
