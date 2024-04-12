@@ -2,7 +2,7 @@
 
 In this course, we will go through the basic concepts of Deep Learning, taking a hands-on approach. You will thus learn how to develop and apply convolutional neural networks (CNN) in Python using [PyTorch](https://pytorch.org/). For this purpose, we will delve into the basics of PyTorch and concepts of computer vision using [torchvision](https://pytorch.org/vision/stable/index.html) (lecture 1). We will train our own CNNs from scratch and use transfer learning to build on existing neural networks (lecture 2). Finally, you will learn how to optimise and evaluate your network architecture and its performance (lecture 3). 
 
-Previous knowledge of PyTorch is not required for the course nor are you expected to know anything about Deep Learning beforemand, as we will cover the basics. However, participants must be familiar with the basic concepts of Python programming. Furthermore, since we will build on the terminology introduced in the RCDS course [Introduction to Machine Learning](https://github.com/ImperialCollegeLondon/RCDS-intro-to-machine-learning), it is a prerequisite for the present workshop.
+Previous knowledge of PyTorch is not required for the course nor are you expected to know anything about Deep Learning beforemand, as we will cover the basics. However, participants must be familiar with the basic concepts of Python programming: specifically, **numpy and matplotlib** and the fundamental building blocks of Python programming (**functions and classes**). Furthermore, since we will build on the terminology introduced in the RCDS course [Introduction to Machine Learning](https://github.com/ImperialCollegeLondon/RCDS-intro-to-machine-learning), it is a prerequisite for the present workshop.
 
 The slides from the lectures are provided in the folder SLIDES. The lecture recordings can be found on Panopto using the links below.
 
@@ -10,11 +10,23 @@ The folder NOTEBOOKS contains Jupyter-notebooks with the examples and exercises 
 
 In the folder QUIZ, you will find a notebook that provides an interactive multiple-choice quiz on the covered material. The quiz can also be found directly on Google Colab using a link below.
 
+## Learning outcomes
+
+After attending this workshop, you will be better able to:
+
+- understand the basic terminology and concepts of deep learning methods 
+
+- understand and explain the applications and limitations of CNN 
+
+- select, apply and develop deep learning techniques in PyTorch.
+
+- evaluate the performance of CNN
+
 ## Lectures
 
 If you are a student or member of staff at Imperial College London, you can access the lectures recordings on Panopto
 
-- [Lecture 1, PyTorch and Deep Learning](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a7692ac6-e98c-4d79-ac18-b14d00a8ca1b)
+- [Lecture 1, PyTorch and Deep Learning](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bb443595-7d7a-4bfd-9a46-b1500104b31b)
 
 - [Lecture 2, Convolutional Neural Networks](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6397640e-1cb7-4e77-8b38-b14d00ab3766)
 
@@ -63,18 +75,6 @@ You can access the notebooks that accompany the lectures directly on Google Cola
 - Quiz notebook: <a href="https://colab.research.google.com/drive/1qXrvMNi6Z9rkZ6RHllbOwmfQ_4knzGFX?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
-## Learning outcomes
-
-After attending this workshop, you will be better able to:
-
-- understand the basic terminology and concepts of deep learning methods 
-
-- understand and explain the applications and limitations of CNN 
-
-- select, apply and develop deep learning techniques in PyTorch.  
-
-- evaluate the performance of CNN 
 
 ## Getting Started
 
