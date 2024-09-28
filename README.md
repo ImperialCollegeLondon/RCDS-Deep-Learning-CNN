@@ -14,13 +14,17 @@ In the folder QUIZ, you will find a notebook that provides an interactive multip
 
 After attending this workshop, you will be better able to:
 
-- understand the basic terminology and concepts of deep learning methods 
+- Explain the basic terminology and concepts of deep learning methods.
 
-- understand and explain the applications and limitations of CNN 
+- Summarise applications of different neural network architectures, including CNN.
 
-- select, apply and develop deep learning techniques in PyTorch.
+- Understand the implementation of neural networks in PyTorch, including their training and testing.
 
-- evaluate the performance of CNN
+- Apply a range of neural network architectures in PyTorch, including CNN, to data.
+
+- Assess the performance of a range of neural networks in PyTorch, including CNN.
+
+See also the [RCDS page](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/deep-learning/) of the course.
 
 ## Lectures
 
