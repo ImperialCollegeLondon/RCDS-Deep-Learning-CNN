@@ -110,4 +110,4 @@ In this course, you will find code that takes you through each step. However, yo
 
 Insightful introductions to topics in Deep Learning can also be found on [https://distill.pub/](https://distill.pub/).
 
-For notebooks or other topics within Deep Learning, we recommend the [course material by I-X](https://github.com/ImperialCollegeLondon/RCDS-Deep-Learning-CNN).
+For notebooks or other topics within Deep Learning, we recommend the [course material by I-X](https://github.com/ASoelvsten/IX-Deep-Learning-2).
