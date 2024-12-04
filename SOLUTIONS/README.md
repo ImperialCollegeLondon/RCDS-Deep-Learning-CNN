@@ -2,11 +2,11 @@
 
 This folder contains links to notebooks with the solutions to a selected subset of exercises and notebooks, with a primary focus on programming tasks. Some exercises in the notebooks are intentionally open-ended, exploratory, designed to reinforce lecture content, or references to external sources are supplied. For such exercises, answers are not provided here.
 
-- Solutions to notebook 1.1: <a href="https://colab.research.google.com/drive/1xl0razTpZ6bqgkRXWVk3-dWVY3KgsbUb?usp=sharing">
+- Solutions to notebook 1.1 are not included here.
+
+- Solutions to notebook 1.2: <a href="https://colab.research.google.com/drive/1xl0razTpZ6bqgkRXWVk3-dWVY3KgsbUb?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
-- Solutions to notebook 1.2 are not included here.
 
 - Solutions to notebook 1.3: <a href="https://colab.research.google.com/drive/1D0duun4ogO0ldVsCZcC06vABaJjhDB27?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
