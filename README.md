@@ -82,7 +82,7 @@ You can access the notebooks that accompany the lectures directly on Google Cola
 
 ## Getting Started
 
-If you want to run the notebooks on your own laptop, you will need to [install PyTorch](https://pytorch.org/). In the course, we will run the code on Google Colab, i.e., no local installations will be required. <span style="background-color:lightblue;">See the notebook "0.1 Installation"</span>.
+If you want to run the notebooks on your own laptop, you will need to [install PyTorch](https://pytorch.org/). In the course, we will run the code on Google Colab, i.e., no local installations will be required. See also the notebook "0.1 Installation" in NOTEBOOKS.
 
 ## Suggested external resources
 
