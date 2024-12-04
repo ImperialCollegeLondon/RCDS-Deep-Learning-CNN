@@ -10,6 +10,8 @@ The folder NOTEBOOKS contains Jupyter-notebooks with the examples and exercises 
 
 In the folder QUIZ, you will find a notebook that provides an interactive multiple-choice quiz on the covered material. The quiz can also be found directly on Google Colab using a link below.
 
+Finally, the folder SOLUTIONS contains links to notebooks in Google Colab with solutions to a selected set of programming exercises.
+
 ## Learning outcomes
 
 After attending this workshop, you will be better able to:
