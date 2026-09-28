@@ -1,0 +1,27 @@
+[project]
+name = "deep-learning"
+version = "0.1.0"
+description = "RCDS Deep Learning with Python"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+  "jupyter>=1.1.1",
+  "matplotlib>=3.11.2",
+  "numpy>=2.5.3",
+  "scikit-learn>=1.9.1",
+  "torch>=2.11.0",
+  "torchvision>=0.26.0",
+]
+
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cpu" },
+]
+torchvision = [
+    { index = "pytorch-cpu" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
