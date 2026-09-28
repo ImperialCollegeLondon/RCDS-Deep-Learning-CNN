@@ -10,7 +10,7 @@ What is the purpose of the `torch.optim` module in PyTorch?,"To define loss func
 What does the DataLoader class do in PyTorch?,"Loads and preprocesses data for training,Defines the model architecture,Performs automatic differentiation,Optimizes the model parameters",Loads and preprocesses data for training
 Which PyTorch function is used to transfer a tensor to a GPU?,"tensor.to_gpu(),tensor.cuda(),torch.to_gpu(),torch.cuda()",tensor.cuda()
 What is the purpose of the CrossEntropyLoss in PyTorch?,"Classification loss for multiple classes,Regression loss,Binary classification loss,Mean squared error loss",Classification loss for multiple classes
-How can you check the size of a tensor in PyTorch?,"tensor.size(),tensor.shape(),tensor.length(),tensor.dim()",tensor.shape()
+How can you check the size of a tensor in PyTorch?,"tensor.size() or tensor.shape, tensor.shape() or tensor.size, tensor.length(), tensor.dim()",tensor.size() or tensor.shape
 What is the purpose of the flatten operation in a neural network?,"To increase the number of parameters,To decrease the number of parameters,To transform a multi-dimensional tensor into a one-dimensional tensor,To add non-linearity to the model",To transform a multi-dimensional tensor into a one-dimensional tensor
 "In PyTorch, what is an epoch in training a neural network?","One complete pass through the entire training dataset,One iteration of the optimization algorithm,One forward and backward pass,One update of the model parameters",One complete pass through the entire training dataset
 Which layer is commonly used for downsampling in a convolutional neural network (CNN)?,"MaxPooling2D,Flatten,Dropout,ReLU",MaxPooling2D
