@@ -46,39 +46,39 @@ You can access the notebooks that accompany the lectures directly on Google Cola
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> -->
 
-- Notebook 1.1: <a href="https://colab.research.google.com/drive/1JvNk2XSm5NY0F9kbtBQxA04n90hJA5mN?usp=sharing">
+- Notebook 1.1: <a href="https://colab.research.google.com/drive/1z1Q50toI1DnRmZ_BanVwgbw14x-BmyH0?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 1.2: <a href="https://colab.research.google.com/drive/1GgEcCmukBWUbGatYA1kyU_bo4UmxZVLI?usp=sharing">
+- Notebook 1.2: <a href="https://colab.research.google.com/drive/1KcHemaZEvbW9H0FCufqXArA_Uz4il3ol?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 1.3: <a href="https://colab.research.google.com/drive/12gRIGNnjbCA-1Hkt97fjB7NU9CnvYt8V?usp=sharing">
+- Notebook 1.3: <a href="https://colab.research.google.com/drive/1XJVaBTvPpO_U5oE2Yvlqwgg5JatTEDsW?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 2.1: <a href="https://colab.research.google.com/drive/1ddF3Rkcag9ywO2XovA7ONNHDKRgid5bv?usp=sharing">
+- Notebook 2.1: <a href="https://colab.research.google.com/drive/1jmasOOKk6esMR8GO2a-tHDr76LmFZZpn?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 2.2: <a href="https://colab.research.google.com/drive/1jd3HeWWEb78zTFBIQYPRjTECjkfJC1yV?usp=sharing">
+- Notebook 2.2: <a href="https://colab.research.google.com/drive/1lY9Cx82duyECTOxAtoo6K-PuT5Tg3TE6?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 2.3: <a href="https://colab.research.google.com/drive/1t1a_yLCAcqtIl9uIqkE01A8VwWKgbjSc?usp=sharing">
+- Notebook 2.3: <a href="https://colab.research.google.com/drive/1JtyUrTeixDprPDbwFPUiGK1kWb6GyC8u?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 3.1: <a href="https://colab.research.google.com/drive/1TzlwecBPvyCVqTBf4z9fpgo5afJIi0_4?usp=sharing">
+- Notebook 3.1: <a href="https://colab.research.google.com/drive/1DeicklG2NBhfxLfwIIADZQaaaUnmdQzZ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 3.2: <a href="https://colab.research.google.com/drive/1sdjecxIHi-7x-KxIydD0TR9gqOdmGmDe?usp=sharing">
+- Notebook 3.2: <a href="https://colab.research.google.com/drive/1jpoHsZBxQpRNWsdAExqTDxG-4OYmOcEY?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Quiz notebook: <a href="https://colab.research.google.com/drive/1qXrvMNi6Z9rkZ6RHllbOwmfQ_4knzGFX?usp=sharing">
+- Quiz notebook: <a href="https://colab.research.google.com/drive/1bjqEnxJWWwKlhsqElmmmiroP6zGPFPp2?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -104,7 +104,7 @@ Due to the time constraints, the course delves into CNNs only. The course does h
 
 - The book Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville and Francis Bach
 
-For a visual representation of what happens in each layer of a CNN, have a look at [tensorspace.org](tensorspace.org). You can create such a visual representation yourself (see notebook 2.1).
+For a visual representation of what happens in each layer of a CNN, have a look at [tensorspace.org](https://tensorspace.org). You can create such a visual representation yourself (see notebook 2.1).
 
 For animations of what happens inside a neural network, have a look at [https://animatedai.github.io](https://animatedai.github.io).
 
